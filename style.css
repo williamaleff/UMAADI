@@ -770,4 +770,8 @@ footer .social-links {
         footer svg {
             margin-left: -4rem;
         }
+
+        footer .logo {
+            margin-left: 0;
+}
 }
